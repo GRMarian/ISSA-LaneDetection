@@ -1,6 +1,5 @@
 #Automotive software engineering
 
-Optional corse,
 
 Lane detection project using openCV in python
     
