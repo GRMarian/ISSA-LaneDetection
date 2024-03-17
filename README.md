@@ -1,7 +1,7 @@
 #Automotive software engineering
 
 
-Lane detection project using openCV in python
+Lane detection project using OpenCV in python
     
 As a bonus i made the lines to change color for errors or noise and the program can work for all frames dimension
 
