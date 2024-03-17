@@ -4,7 +4,7 @@ Optional corse,
 
 Lane detection project using openCV in python
     
-As a bonus i made the lines to change color for errors or noise and the program can fork for all frame dimension
+As a bonus i made the lines to change color for errors or noise and the program can work for all frames dimension
 
 If you want to run it:
   
